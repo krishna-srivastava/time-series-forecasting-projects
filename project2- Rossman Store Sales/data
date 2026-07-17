@@ -1,2 +1,7 @@
+## Dataset
+Data is not included in project 2 due to size constraints.
+
 Download from Kaggle:
 👉 https://www.kaggle.com/c/rossmann-store-sales/data
+
+After downloading, place files in `/data` folder.
