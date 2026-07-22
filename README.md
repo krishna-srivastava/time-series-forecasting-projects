@@ -15,7 +15,7 @@ End-to-end Time Series ML projects built with Python, covering EDA, Feature Engi
 
 ---
 
-### 🏪 Project 2 — Rossmann Store Sales Forecasting
+### 🏪 Project 2 — Rossmann Store Sales
 > Retail sales forecasting on real Kaggle dataset (911K rows, 1115 stores).
 
 - **EDA** — Holiday effect, Promo analysis, Store-wise performance
