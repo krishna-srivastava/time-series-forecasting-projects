@@ -70,7 +70,7 @@ IDE        → VS Code + Jupyter Notebook
 | Project 4 | Generated (TCS-inspired 15 year data) |
 
 > Note: Large CSV files are not included in this repo.
-> Download datasets from the links above and place in `/Data` folder.
+> Download datasets from the links above and place in `/Data` folder.  
 
 ---
 
