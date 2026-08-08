@@ -4,7 +4,7 @@ End-to-end Time Series ML projects built with Python, covering EDA, Feature Engi
 
 ---
 
-## 🗂️ Projects
+## 🗂️ Projects  
 
 ### 📦 Project 1 — Simple Sales Analysis
 > Beginner-level time series project to understand core concepts.
