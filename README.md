@@ -1,4 +1,4 @@
-# 📈 Time Series Forecasting Projects
+# 📈 Time Series Forecasting Projects   
 
 End-to-end Time Series ML projects built with Python, covering EDA, Feature Engineering, Forecasting Models and Power BI Dashboards.
 
