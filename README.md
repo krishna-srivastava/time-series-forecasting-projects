@@ -55,7 +55,6 @@ End-to-end Time Series ML projects built with Python, covering EDA, Feature Engi
 - **Feature Engineering** — lag_1/2/3/24/168, Rolling means, Cyclical time encoding (hour/month), Zone one-hot encoding, Growth trend index
 - **Model** — XGBoost Regressor (MAE: 6, RMSE: 10, R²: 0.94)
 - **Forecasting** — 24-hour recursive forecast per zone, Year-over-year comparison
-- **Limitations** — Documented tree-model trend-extrapolation limitation (see `explanation.md`)
 
 ---
 
@@ -72,15 +71,14 @@ IDE        → VS Code + Jupyter Notebook
 ---
 
 ## 📁 Dataset Sources
-
 | Project | Dataset |
 |---|---|
 | Project 2 | [Rossmann Store Sales — Kaggle](https://www.kaggle.com/c/rossmann-store-sales) |
 | Project 3 | Generated (PJM Hourly Energy inspired) |
 | Project 4 | Generated (TCS-inspired 15 year data) |
-
+| Project 5 | Taxi-inspired 5 year multi-zone hourly demand data |
 > Note: Large CSV files are not included in this repo.
-> Download datasets from the links above and place in `/Data` folder.  
+> Download datasets from the links above and place in `/Data` folder.
 
 ---
 
