@@ -49,6 +49,16 @@ End-to-end Time Series ML projects built with Python, covering EDA, Feature Engi
 
 ---
 
+### 🚕 Project 5 — Taxi/Uber Demand Forecasting
+> Multi-zone, 5-year hourly demand forecasting with recursive future prediction.
+- **EDA** — Daily/weekly/seasonal patterns, Holiday effect, Rain effect, Zone-wise demand comparison
+- **Feature Engineering** — lag_1/2/3/24/168, Rolling means, Cyclical time encoding (hour/month), Zone one-hot encoding, Growth trend index
+- **Model** — XGBoost Regressor (MAE: 6, RMSE: 10, R²: 0.94)
+- **Forecasting** — 24-hour recursive forecast per zone, Year-over-year comparison
+- **Limitations** — Documented tree-model trend-extrapolation limitation (see `explanation.md`)
+
+---
+
 ## 🛠️ Tech Stack
 
 ```
