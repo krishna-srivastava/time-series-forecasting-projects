@@ -75,7 +75,7 @@ IDE        → VS Code + Jupyter Notebook
 |---|---|
 | Project 2 | [Rossmann Store Sales — Kaggle](https://www.kaggle.com/c/rossmann-store-sales) |
 | Project 3 | Generated (PJM Hourly Energy inspired) |
-| Project 4 | Generated (TCS-inspired 15 year data) |
+| Project 4 | TCS-inspired 15 year data |
 | Project 5 | Taxi-inspired 5 year multi-zone hourly demand data |
 > Note: Large CSV files are not included in this repo.
 > Download datasets from the links above and place in `/Data` folder.
